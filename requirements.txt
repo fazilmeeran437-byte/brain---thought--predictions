@@ -3,7 +3,7 @@ pandas
 numpy
 scikit-learn
 plotly
-gTTs
+pyttsx3
 opencv-python
 pillow
 matplotlib
